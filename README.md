@@ -1,4 +1,4 @@
-# ANÁLISE DE SISTEMAS DINÂMICOS LINEARES (AUT.030)
+# Análise de Sistemas Dinâmicos Lineares (AUT.030)
 
 Material didático para apoio da disciplina de Análise de Sistemas Dinâmicos Lineares* (AUT.030) do IFMG Campus Betim. O material desenvolvido com apoio dos estudantes e monitores da disciplina.
 
